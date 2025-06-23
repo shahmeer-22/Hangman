@@ -1,0 +1,15 @@
+soccer
+basketball
+tennis
+cricket
+baseball
+football
+rugby
+hockey
+golf
+volleyball
+swimming
+cycling
+boxing
+wrestling
+badminton

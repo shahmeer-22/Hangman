@@ -1,0 +1,15 @@
+apple
+banana
+carrot
+lasagna
+burger
+watermelon
+grape
+strawberry
+pizza
+pasta
+mango
+sandwich
+orange
+cupcake
+pineapple

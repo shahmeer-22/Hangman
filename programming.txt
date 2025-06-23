@@ -1,0 +1,15 @@
+algorithm
+variable
+pointer
+debugging
+compilation
+syntax
+function
+compiler
+recursion
+object
+error
+psuedocode
+flowchart
+structures
+compiler
